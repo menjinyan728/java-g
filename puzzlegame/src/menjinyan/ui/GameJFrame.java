@@ -69,3 +69,4 @@ public class GameJFrame extends JFrame {
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 }
+//ceshi1
